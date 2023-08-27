@@ -1,7 +1,7 @@
 # Sudo - Social Media App
 
 ### Introduction
-is an image sharing web application that allows users to post, filter, and discover images based on categories. The app offers a functional search feature, user profiles, Google authentication, post comments, and related posts for an enhanced image sharing experience.
+Sudo is an image sharing web application that allows users to post, filter, and discover images based on categories. The app offers a functional search feature, user profiles, Google authentication, post comments, and related posts for an enhanced image sharing experience.
 
 ### Features
 - Image Posting: Users can upload and share images with the community.
